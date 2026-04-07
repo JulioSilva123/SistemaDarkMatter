@@ -600,4 +600,4 @@ cienciadados resetar --confirmar
 
 ---
 
-[Voltar à página inicial](./index.md) | [Ver fluxo de uso recomendado](./fluxo-de-uso.md)
+[Voltar à página inicial](./README.md) | [Ver fluxo de uso recomendado](./fluxo-de-uso.md)

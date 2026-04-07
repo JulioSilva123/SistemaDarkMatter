@@ -138,4 +138,4 @@ Fontes Externas ──► Download/Upload ──► CSVs Brutos
 
 ---
 
-[Voltar à página inicial](./index.md)
+[Voltar à página inicial](./README.md)

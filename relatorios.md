@@ -44,4 +44,4 @@ O relatório gerado inclui:
 
 ---
 
-[Voltar à página inicial](./index.md)
+[Voltar à página inicial](./README.md)

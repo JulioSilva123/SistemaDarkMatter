@@ -108,4 +108,4 @@ Exemplo:
 
 ---
 
-[Voltar à página inicial](./index.md) | [Ver arquitetura](./arquitetura-do-sistema.md)
+[Voltar à página inicial](./README.md) | [Ver arquitetura](./arquitetura-do-sistema.md)

@@ -39,4 +39,4 @@ O CiênciaDados foi projetado para responder perguntas investigativas complexas 
 
 ---
 
-[Voltar à página inicial](./index.md)
+[Voltar à página inicial](./README.md)

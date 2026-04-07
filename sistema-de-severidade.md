@@ -84,4 +84,4 @@ Alguns achados têm severidade composta por múltiplos fatores. Por exemplo, na 
 
 ---
 
-[Voltar à página inicial](./index.md) | [Ver motor de análise](./motor-de-analise.md)
+[Voltar à página inicial](./README.md) | [Ver motor de análise](./motor-de-analise.md)

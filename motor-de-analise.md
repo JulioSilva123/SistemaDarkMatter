@@ -106,4 +106,4 @@ Cada análise gera **achados** no banco de dados com:
 
 ---
 
-[Voltar à página inicial](./index.md) | [Ver lista completa](./analises-disponiveis.md)
+[Voltar à página inicial](./README.md) | [Ver lista completa](./analises-disponiveis.md)

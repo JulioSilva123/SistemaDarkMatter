@@ -191,4 +191,4 @@ Diagramas visuais que ilustram como o sistema rastreia e analisa o uso de recurs
 
 ---
 
-[Voltar à página inicial](./index.md)
+[Voltar à página inicial](./README.md)
