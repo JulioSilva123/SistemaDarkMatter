@@ -67,7 +67,8 @@ Reúne todas as pessoas, empresas e órgãos públicos a partir de dados da Rece
 
 | Página | Conteúdo |
 |---|---|
-| [Perguntas que o Sistema Responde](./perguntas-que-o-sistema-responde.md) | Lista completa de perguntas investigativas |
+| [Perguntas que o Sistema Responde](./perguntas-que-o-sistema-responde.md) | Lista resumida de perguntas investigativas |
+| [Perguntas Investigativas Detalhadas](./perguntas-investigativas-detalhadas.md) | Explicação detalhada de cada pergunta e como o sistema responde |
 | [Datasets](./datasets.md) | Fontes de dados utilizadas |
 | [Fluxos de Investigação](./fluxos-de-investigacao.md) | Do dado bruto ao relatório |
 | [Fluxos Visuais](./fluxos-visuais.md) | Diagramas visuais dos fluxos de análise |
